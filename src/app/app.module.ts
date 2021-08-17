@@ -1,3 +1,4 @@
+import { Goal } from 'src/app/goal';
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
